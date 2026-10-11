@@ -1,0 +1,12 @@
+{
+  "name": "La Meva Cartera",
+  "description": "",
+  "allocations": {
+    "IWDA.AS": 30.0,
+    "XDWT.DE": 30.0,
+    "IS3N.DE": 33.4,
+    "EUNH.DE": 6.6
+  },
+  "initial_capital": 10000.0,
+  "rebalance_freq": "yearly"
+}

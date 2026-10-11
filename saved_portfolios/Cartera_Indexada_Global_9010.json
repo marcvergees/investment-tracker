@@ -1,0 +1,11 @@
+{
+  "name": "Cartera Indexada Global 90/10",
+  "description": "Cartera passiva global indexada a l'economia mundial: 80% països desenvolupats, 10% emergents i 10% bons.",
+  "allocations": {
+    "IWDA.AS": 80.0,
+    "EMIM.AS": 10.0,
+    "EUNH.DE": 10.0
+  },
+  "initial_capital": 10000.0,
+  "rebalance_freq": "yearly"
+}

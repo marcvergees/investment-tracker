@@ -1,0 +1,15 @@
+{
+  "name": "TradeRepublic",
+  "description": "Cartera amb Renda Variable EUA, Europa, Emergents, Small Caps, Oracle i Bitcoin.",
+  "allocations": {
+    "SPY": 47.0,
+    "QQQ": 24.0,
+    "IS3N.DE": 10.0,
+    "IUSN.DE": 10.0,
+    "EUNK.DE": 6.0,
+    "BTC-EUR": 2.0,
+    "ORCL": 1.0
+  },
+  "initial_capital": 10000.0,
+  "rebalance_freq": "yearly"
+}

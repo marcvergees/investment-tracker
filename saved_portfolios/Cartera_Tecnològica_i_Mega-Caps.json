@@ -1,0 +1,13 @@
+{
+  "name": "Cartera Tecnològica i Mega-Caps",
+  "description": "Cartera centrada en lideratge tecnològic global i gegants digitals dels EUA.",
+  "allocations": {
+    "QQQ": 50.0,
+    "AAPL": 15.0,
+    "MSFT": 15.0,
+    "NVDA": 10.0,
+    "GOOGL": 10.0
+  },
+  "initial_capital": 10000.0,
+  "rebalance_freq": "yearly"
+}

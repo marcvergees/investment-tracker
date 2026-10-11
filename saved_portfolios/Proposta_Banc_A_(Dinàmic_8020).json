@@ -1,0 +1,12 @@
+{
+  "name": "Proposta Banc A (Dinàmic 80/20)",
+  "description": "Proposta bancària de perfil dinàmic: 50% S&P 500, 20% Nasdaq 100, 10% Mercats Emergents i 20% Renda Fixa Euro.",
+  "allocations": {
+    "SPY": 50.0,
+    "QQQ": 20.0,
+    "EMIM.AS": 10.0,
+    "EUNH.DE": 20.0
+  },
+  "initial_capital": 10000.0,
+  "rebalance_freq": "yearly"
+}

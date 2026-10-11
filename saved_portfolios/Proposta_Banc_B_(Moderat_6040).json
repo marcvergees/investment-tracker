@@ -1,0 +1,11 @@
+{
+  "name": "Proposta Banc B (Moderat 60/40)",
+  "description": "Estratègia moderada equilibrada: 40% MSCI World, 20% STOXX Europe 600 i 40% Renda Fixa Europea.",
+  "allocations": {
+    "IWDA.AS": 40.0,
+    "EXSA.DE": 20.0,
+    "EUNH.DE": 40.0
+  },
+  "initial_capital": 10000.0,
+  "rebalance_freq": "yearly"
+}
